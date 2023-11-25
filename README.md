@@ -6,4 +6,4 @@ My first repository.
 2. **Mario**	
 3. **Angry Birds**	
 
- 	![alt text](https://images.app.goo.gl/WAwcTErhrsSHVHEv7)
+
